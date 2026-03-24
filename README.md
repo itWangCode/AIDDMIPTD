@@ -31,7 +31,7 @@ AIDDMIPTD/
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/AIDDMIPTD.git
+git clone git@github.com:itWangCode/AIDDMIPTD.git
 cd AIDDMIPTD
 pip install -r requirements.txt
 ```
